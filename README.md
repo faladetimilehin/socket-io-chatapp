@@ -9,11 +9,10 @@ Efficient tool for handling enterprise wide payments at the lowest possible cost
 
 ## Getting Started
 
-
 Start by cloning the repository to your local machine
 
 ```bash
-git clonehttps://github.com/faladetimilehin/socket-io-chatapp.git
+git clone https://github.com/faladetimilehin/socket-io-chatapp.git
 
 cd Socket-io-Chatapp
 ```
@@ -37,9 +36,6 @@ After that start or build the application by running
 npm test
 
 ```
-
-
-
 
 
 # Project Title
@@ -127,10 +123,7 @@ After setting up the project you should run the command below to run the test
 ​
 To deploy this application, simply build the docker image provided in the [Dockerfile](./Dockerfile)
 ​
-## Contributing [Dev]
-​
-All new features are to be created off of the dev branch and then when work is done, a Pull Request should be made back to the dev branch to move it into it and then move to QA and Production environments subsequestly
-​
+
 ​
 ## Versioning [Dev]
 ​
@@ -139,10 +132,8 @@ N/a
 
 ## Repo Structure
 
-
 ## Authors [Dev]
 - Falade Timilehin
-
 
 
 ## License
@@ -150,4 +141,4 @@ N/a
 Private(Timilehin property)
 ​
 ## Acknowledgments
-🙇🏽‍♂️ Special Acknoledgement goes to the Frontend team👨‍💻, the Scrum masters💻🤝, the payment team members👨‍💻🔥 and every member of the NIBSS family that contributed to making this project posible🤝. You all are amizing💪🔥💥. gracias 🎉
+
